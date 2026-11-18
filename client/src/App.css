@@ -66,20 +66,12 @@ body {
   background-color: #1abc9c; /* Turquoise */
 }
 
-.navbar a.youtube {
-  background-color: #e74c3c; /* Light Red */
+.navbar a.github {
+  background-color: #24292f; /* GitHub dark */
 }
 
-.navbar a.courses {
-  background-color: #3498db; /* Light Blue */
-}
-
-.navbar a.telegram {
-  background-color: #2980b9; /* Darker Blue */
-}
-
-.navbar a.instagram {
-  background-color: #9b59b6; /* Purple */
+.navbar a.source {
+  background-color: #2ea44f; /* Green */
 }
 
 h1 {
